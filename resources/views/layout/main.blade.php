@@ -34,7 +34,7 @@ if ($page == 'home') {
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Manaj Corporation - Accueil</title>
+    <title>Manaj Corporation</title>
 
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
